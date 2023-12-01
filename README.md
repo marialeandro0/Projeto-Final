@@ -1,5 +1,5 @@
 # PROJETO FINAL
-
+![Alt Text](https://github.com/marialeandro0/Projeto-Final/blob/main/Inserir%20um%20subt%C3%ADtulo%20(1).png?raw=true)
 ## TEMA
 ### Proporção entre mulheres e homens em relação ao trabalho de cuidado não remunerado.
 O trabalho de cuidado não remunerado envolve uma ampla gama de atividades, incluindo cuidados com crianças, idosos, membros enfermos da família, pessoas com deficiência e outros que necessitam de assistência. Isso pode incluir tarefas como alimentação, higiene pessoal, transporte, supervisão, administração de medicamentos, entre outras. Globalmente, as mulheres são frequentemente as principais prestadoras de cuidados não remunerados. O trabalho de cuidado não remunerado muitas vezes contribui para a chamada "carga de trabalho invisível" das mulheres, que pode afetar suas oportunidades de participação no mercado de trabalho e seu desenvolvimento profissional.
